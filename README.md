@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/continuumsecurity/bdd-security) 
+
 [![Build Status](https://travis-ci.org/nicolasiltis/bdd-security.svg?branch=master)](https://travis-ci.org/nicolasiltis/bdd-security)
 
 
